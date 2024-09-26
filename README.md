@@ -4,6 +4,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaAng)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary>Click to see my cat</summary>
-  <img src="https://github.com/AlishaAng/AlishaAng/blob/main/images/cats.jpg?raw=true" alt="My Cat" width="300">
+  <summary>Click to see cute cat</summary>
+  <img src="https://github.com/AlishaAng/AlishaAng/blob/master/images/cats.jpg?raw=true" alt="cute cats" width="300">
 </details>
