@@ -5,6 +5,6 @@
 
 
 <details>
-  <summary>Click to see Yako and Momo (cats) </summary>
+  <summary>Click to see the best picture on the internet</summary>
   <img src="https://github.com/AlishaAng/AlishaAng/blob/master/images/cats.jpg?raw=true" alt="cute cats" width="300">
 </details>
