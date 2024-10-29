@@ -1,7 +1,7 @@
 ### Hello, I am Alisha 👋🙂
 
 ![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlishaAng&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaAng&size_weight=0.5&count_weight=0.5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaAng&layout=compact&size_weight=0.5&count_weight=0.5)
 
 <details>
   <summary>Click to see the best picture on the internet</summary>
